@@ -1,3 +1,6 @@
 {
-  "window.zoomLevel": 0
+  "window.zoomLevel": 0,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/billlanyon/NotSynced/DesktopNotSynced/gha-node-express-rest-api-docker/.github/workflows/deploy.yml"
+  }
 }
